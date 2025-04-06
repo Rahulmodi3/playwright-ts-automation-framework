@@ -1,2 +1,5 @@
 *.ts linguist-detectable=true
 *.html linguist-vendored
+public/* linguist-vendored
+dist/* linguist-vendored
+node_modules/* linguist-vendored
